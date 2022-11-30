@@ -1,5 +1,9 @@
 <p align="center"><a href="https://www.royal-apps.io/" target="_blank"><img src="https://uploads-ssl.webflow.com/6270bef1818dae78622e4721/628c8ed556d7f41161f2719a_logo.svg" width="400" alt="Laravel Logo"></a></p>
 
+Live Demo
+---------
+https://casestudyapp.tk
+
 ## About Project 
 This project was created using skeleton api with guzzle in short  <br>
 Authentication was done with Custom Middleware <br>
