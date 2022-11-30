@@ -4,7 +4,7 @@
 This project was created using skeleton api with guzzle in short  <br>
 Authentication was done with Custom Middleware <br>
 This project is using Laravel 9 <br>
-This project php version 8.0 <br>
+This project php version 8+ <br>
 This project is no using  database <br>
 This project is using guzzle for api call <br>
 The project was deployed phpStorm <br>
