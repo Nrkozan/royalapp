@@ -7,7 +7,7 @@ This project is using Laravel 9 <br>
 This project php version 8+ <br>
 This project is no using  database <br>
 This project is using guzzle for api call <br>
-The project was developed phpStorm <br>
+The project was developed with  phpStorm IDE <br>
 
 ## About Bilge Ozan Per
 goto my linked page : https://www.linkedin.com/in/bilgeozanper/ <br>
